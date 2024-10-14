@@ -1,0 +1,57 @@
+[
+  {
+    "id": "123e4567-e89b-12d3-a456-426655440000",
+    "inviterId": "908a8eb0-6038-45ef-a42e-b3c2fe05e97e",
+    "inviteeId": "fa76922c-51ac-432e-b3a0-c5d0d38dd972",
+    "permissions": [
+      "Read Posts",
+      "Write Posts",
+      "Read Messages",
+      "Write Profile  Info"
+    ],
+    "status": "Pending",
+    "createdAt": "2022-01-01T12:00:00Z",
+    "acceptedAt": "2022-01-01T12:00:00Z"
+  },
+  {
+    "id": "d4ee1c42-8c75-4c5e-8b51-4a7e0ce7b7e6",
+    "inviterId": "908a8eb0-6038-45ef-a42e-b3c2fe05e97e",
+    "inviteeId": "d53ce083-644c-4f92-8b57-002ab6f66f89",
+    "permissions": [
+      "Read Posts",
+      "Write Posts",
+      "Read Messages",
+      "Write Messages",
+      "Read Profile Info",
+      "Write Profile Info"
+    ],
+    "status": "Rejected",
+    "createdAt": "2022-01-01T12:00:00Z",
+    "acceptedAt": "2022-01-01T12:00:00Z"
+  },
+  {
+    "id": "e7b7f6ff-5d64-4b67-89b9-8e499f3a93a4",
+    "inviterId": "d53ce083-644c-4f92-8b57-002ab6f66f89",
+    "inviteeId": "908a8eb0-6038-45ef-a42e-b3c2fe05e97e",
+    "permissions": [
+      "Read Posts",
+      "Write Posts"
+    ],
+    "status": "Accepted",
+    "createdAt": "2022-01-01T12:00:00Z",
+    "acceptedAt": "2022-01-01T12:00:00Z"
+  },
+  {
+    "id": "b5f3c8a0-8c7c-44e7-bf3c-9e6c3d4e6e1e",
+    "inviterId": "fa76922c-51ac-432e-b3a0-c5d0d38dd972",
+    "inviteeId": "908a8eb0-6038-45ef-a42e-b3c2fe05e97e",
+    "permissions": [
+      "Read Posts",
+      "Read Messages",
+      "Read Profile Info"
+    ],
+    "status": "Pending",
+    "createdAt": "2022-01-01T12:00:00Z",
+    "acceptedAt": "2022-01-01T12:00:00Z"
+  }
+]
